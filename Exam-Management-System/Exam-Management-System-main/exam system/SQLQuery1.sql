@@ -1,0 +1,8 @@
+SELECT TOP (1000) [Cid]
+      ,[CName]
+      ,[CAge]
+      ,[CPass]
+      ,[CSore]
+      ,[CAdd]
+      ,[CPhone]
+  FROM [quiz].[dbo].[CandidateTable]

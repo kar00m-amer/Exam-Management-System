@@ -1,0 +1,116 @@
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\exam system.exe.config
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\exam system.exe
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\exam system.pdb
+C:\Users\DELL\source\repos\exam system\exam system\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.csproj.CopyComplete
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.exe
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam system.pdb
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.Questions.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.candidates.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.subjects.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.exams.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.splash.resources
+C:\Users\DELL\source\repos\exam system\exam system\obj\Debug\exam_system.login.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe.config
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.pdb
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.SuggestedBindingRedirects.cache
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.splash.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CopyComplete
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.exe
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.pdb
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Question_0cs.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Candidate_0.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Subject_0.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Exam_0.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.log_in_0.resources
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB.mdf
+D:\ععععععععااا\project\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB_log.ldf
+C:\Users\Mohamed Elsayed\Downloads\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+C:\Users\Mohamed Elsayed\Downloads\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.exe
+C:\Users\Mohamed Elsayed\Downloads\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.pdb
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.SuggestedBindingRedirects.cache
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Candidate_0.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Exam_0.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.log_in_0.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Question_0cs.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.splash.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Subject_0.resources
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.exe
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.pdb
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB.mdf
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB_log.ldf
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe.config
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.pdb
+D:\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CopyComplete
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.SuggestedBindingRedirects.cache
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Candidate_0.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Exam_0.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.log_in_0.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Question_0cs.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.splash.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Subject_0.resources
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.exe
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.pdb
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB.mdf
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB_log.ldf
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe.config
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.pdb
+D:\New folder\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CopyComplete
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB.mdf
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB_log.ldf
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe.config
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.pdb
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Candidate_0.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Exam_0.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.log_in_0.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Question_0cs.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.splash.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Admin_log_in.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Subject_0.resources
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam sys.CDAAC89F.Up2Date
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.exe
+D:\Ammar\un\web\Exam-Management-System-main\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.pdb
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB.mdf
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\bin\Debug\quizDB_log.ldf
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe.config
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.exe
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\bin\Debug\exam system.pdb
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.AssemblyReference.cache
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Candidate_0.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Exam_0.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.log_in_0.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Properties.Resources.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Question_0cs.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.splash.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Admin_log_in.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam_system.Subject_0.resources
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.GenerateResource.cache
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CoreCompileInputs.cache
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.csproj.CopyComplete
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.exe
+C:\Users\kaream\OneDrive\Pictures\Screenshots\Exam-Management-System\Exam-Management-System-main\exam system\exam system\obj\Debug\exam system.pdb
